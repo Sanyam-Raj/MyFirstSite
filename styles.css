@@ -1,0 +1,147 @@
+a{
+    color:#6fd3c6;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    color:darkslategray;
+    
+}
+.btn {
+    background-color: #11cdd4; /* Green background */
+    border: none; /* No border */
+    color: white; /* White text */
+    padding: 15px 32px; /* Some padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Display inline-block */
+    font-size: 16px; /* Set font size */
+    margin: 10px 0; /* Some margin */
+    cursor: pointer; /* Pointer/hand icon */
+    border-radius: 12px; /* Rounded corners */
+  }
+  
+  .btn:hover {
+    background-color: #30e3cb; /* Darker green on hover */
+  }
+  
+  .btn:active {
+    background-color: #3e8e41; /* Even darker green on click */
+    transform: translateY(2px); /* Slight movement when clicked */
+  }
+.ct{
+    width: 40%;
+    margin: 40px auto 40px auto;
+
+}
+.cp{
+    color:#EAF6F6;
+    font-size:0.75rem ;
+    padding: 15px 0;
+}
+h1{
+    margin-top: 50px auto 0 auto;
+    font-size: 90px;
+    font-family: 'Sacramento',cursive;
+    color: #66BFBF;
+    
+}
+h2{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    line-height: 2;
+    font-family: cursive;
+}
+h3{
+color: #11999E;
+font-family: cursive;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:left;
+    line-height: 2;
+
+}
+.java{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+
+}
+.dsa{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+}
+.tt{
+    margin: 0;
+    color: #11999E;
+    font-family: cursive;
+    font-weight: normal;
+}
+.ibox{
+    background-color: #E4F9F5;
+   position: relative;
+   padding: 100px;
+}
+.middle-container{
+    margin: 100px 0;
+   
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  
+p{
+    line-height: 2;
+} 
+}
+.OG{
+    text-decoration: underline;
+    font-size: 2.5rem;
+    
+}
+.bottomCloud{
+    position: absolute;
+    left: 300px;
+    
+
+
+}
+.UpperCloud{
+    position: absolute;
+    right: 300px;
+    top:50px;
+
+}
+.mountain{
+    margin: 400px;
+}
+.my{
+    size: 200px;
+    height: auto;
+   width: 150px;
+   margin-top: 30px;
+   border-radius: 10%;
+}
+hr{
+    border: dotted  #EAF6F6 8px;
+    border-bottom: 0;
+    width: 8%;
+    margin: 100px auto;
+}
